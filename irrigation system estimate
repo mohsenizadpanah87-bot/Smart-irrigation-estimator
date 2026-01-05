@@ -15,7 +15,7 @@
         96,
         1216
       ],
-      "webhookId": "677b22be-6583-4db8-aaa3-c94b6856227a"
+      "webhookId": ""
     },
     {
       "parameters": {
@@ -165,7 +165,7 @@
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "O9guDiyrX0LqDKwx",
+          "id": "",
           "name": "Google Sheets account"
         }
       }
@@ -201,7 +201,7 @@
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "O9guDiyrX0LqDKwx",
+          "id": "",
           "name": "Google Sheets account"
         }
       }
@@ -243,7 +243,7 @@
       "name": "Google Gemini Chat Model",
       "credentials": {
         "googlePalmApi": {
-          "id": "coeD45RDfTZM6Sh0",
+          "id": "",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
@@ -260,7 +260,7 @@
       "name": "Embeddings Google Gemini",
       "credentials": {
         "googlePalmApi": {
-          "id": "coeD45RDfTZM6Sh0",
+          "id": "",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
@@ -386,8 +386,8 @@
   "versionId": "434d2095-54cc-4b03-957d-1aafc3b2f58b",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "15550e30f69fd56cfe9d8495eaf09aad8858f616002a0e2c74cc53bbf6f4a307"
+    "instanceId": ""
   },
-  "id": "ZZxFfkrcFIoSxA7A",
+  "id": "",
   "tags": []
 }
