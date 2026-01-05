@@ -1,6 +1,6 @@
 ## 🌿 Smart Irrigation System & Cost Estimator (AI-Powered)
 
-### Overview This professional n8n workflow bridges the gap between traditional landscape engineering and modern AI automation. It was designed to solve the manual labor of calculating material requirements and costs for large-scale irrigation projects.
+###It was designed to solve the manual labor of calculating material requirements and costs for large-scale irrigation projects.
 
 ### 🚀 Key Features
 
@@ -20,4 +20,4 @@
 
 **Interfaces:** Telegram Bot API / Google Sheets
 
-**Logic:** JavaScript (Function Nodes)
+
